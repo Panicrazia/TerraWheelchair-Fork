@@ -1,3 +1,7 @@
+This is a fork of the original TerraWheelchair mod, I wanted to change it to what I thought was a better mod in terms of balance, useablility, and masochistic fun, because I wasnt able to play a merfolk in my most recent terraria multiplayer experience
+
+
+
 # TerraWheelchair
 泰拉瑞亚轮椅Mod
 
@@ -32,3 +36,40 @@ v0.9.5 更新：重写网络部分，现在多人的稳定性得到了极大提�
 - 标记轮椅证书时你甚至可以坐在自己召唤的轮椅上（单人游戏中这是唯一的坐轮椅方式） 在这种情况下，轮椅会进入电动模式，自动慢慢往前运行
 
 几天前刚开始学做MOD，实现比较乱，请见谅
+
+
+This above chinese text was the original readme from the original mod and has been autotranslated into this, it is not an accurate description of what the mod does in my version:
+
+  Terraria Wheelchair Mod
+  
+  v0.9.5 Update: Rewrote the networking section, multiplayer stability is now greatly improved and the wheelchair doesn't twitch in your hand anymore!
+  
+  
+  Added a wheelchair entity that supports carrying and pushing and throwing!
+  
+  - Made for online whole living! Get your buddies in your wheelchair to be carried by you (or let them carry you)
+  - Double wheelchair opening challenge? Try disabling mobility and then letting your friend drive you in your wheelchair (you can output from your wheelchair)!
+  
+  Happy wheelchair adventures!
+  
+  Synthesis Table.
+  Synthesize empty-handed at the workbench
+  (Workbench is not needed in 1.4tml version)
+  
+  Mechanisms.
+  * Wheelchair Item
+  - Summons your wheelchair entity when used
+  - When holding this item, if you are next to a wheelchair, you will automatically hold the wheelchair and you can push it along to move, jump, fly (even ride a mount)
+  - While holding the wheelchair, clicking the left mouse button again will throw the wheelchair in the direction of the mouse (the player in the wheelchair will be thrown along with it)
+  - If the wheelchair is at a distance, clicking the left mouse button again will retrieve the wheelchair to the player from the distance
+  
+  * :: Wheelchair certificates
+  - You can only sit in the wheelchair when you mark the wheelchair certificate as favorite (Alt+click) (don't mark it as favorite if you want to be the wheelchair pusher)
+  - When marked as favorite, you will automatically sit in an empty wheelchair nearby
+  - When you are in a wheelchair, you will be driven along with the wheelchair pusher when he/she carries, throws, or transfers the wheelchair.
+  
+  * Remarks
+  - Only the summoner of the wheelchair can push this wheelchair entity. If you want to push a wheelchair, you need to summon a wheelchair of your own (you can't push one summoned by someone else)
+  - You can even sit in your own summoned wheelchair when marking the wheelchair certificate (in single player this is the only way to sit in a wheelchair) In this case, the wheelchair will go into motorized mode and automatically run forward slowly
+  
+  I just started learning how to make mods a few days ago, the implementation is quite messy, please forgive me!
