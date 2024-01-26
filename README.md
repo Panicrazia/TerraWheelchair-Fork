@@ -1,6 +1,14 @@
 This is a fork of the original TerraWheelchair mod, I wanted to change it to what I thought was a better mod in terms of balance, useablility, and masochistic fun, because I wasnt able to play a merfolk in my most recent terraria multiplayer experience
 
+I may change this readme depending on how far in development I am, and how many changes I have made
 
+
+
+这是一个用于《Terraria》的修改，最初是由一位主要使用中文编写的人编写的，并且已经被一位不会说中文的英语使用者分叉。任何看起来不正常的中文都是由翻译软件导致的，而英文描述是准确的部分
+
+以下线以下的任何中文都是原始修改的自述文件，我没有更改它。
+
+--------------------------------------------------------------------------------
 
 # TerraWheelchair
 泰拉瑞亚轮椅Mod
@@ -36,7 +44,6 @@ v0.9.5 更新：重写网络部分，现在多人的稳定性得到了极大提�
 - 标记轮椅证书时你甚至可以坐在自己召唤的轮椅上（单人游戏中这是唯一的坐轮椅方式） 在这种情况下，轮椅会进入电动模式，自动慢慢往前运行
 
 几天前刚开始学做MOD，实现比较乱，请见谅
-
 
 This above chinese text was the original readme from the original mod and has been autotranslated into this, it is not an accurate description of what the mod does in my version:
 
